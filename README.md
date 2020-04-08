@@ -1,8 +1,6 @@
 # sqlalchemy-challenge
 SQLAlchemy Homework - Surfs Up!
 
-SQLAlchemy Homework - Surfs Up!
-
 Before You Begin
 
 
@@ -17,7 +15,7 @@ Add your Jupyter notebook and app.py to this folder. These will be the main scri
 
 Push the above changes to GitHub or GitLab.
 
-
+https://rice.bootcampcontent.com/Rice-Coding-Bootcamp/RU-HOU-DATA-PT-12-2019-U-C/raw/master/Homework/10-Advanced-Data-Storage-and-Retrieval/Instructions/Images/surfs-up.png
 
 Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii! To help with your trip planning, you need to do some climate analysis on the area. The following outlines what you need to do.
 
